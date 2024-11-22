@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unite_Testing\\EMR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3B98AE-B8FE-4712-B5ED-C33A1A8D28F0}|EMR.test\\EMR.test.csproj|f:\\unite_testing\\emr\\emr.test\\bmicalculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3B98AE-B8FE-4712-B5ED-C33A1A8D28F0}|EMR.test\\EMR.test.csproj|solutionrelative:emr.test\\bmicalculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081F0B91-393D-4E05-BB99-2C63E8E7D40D}|EMR\\EMR.csproj|f:\\unite_testing\\emr\\emr\\bmicalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081F0B91-393D-4E05-BB99-2C63E8E7D40D}|EMR\\EMR.csproj|solutionrelative:emr\\bmicalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BMICalculatorTest.cs",
+              "DocumentMoniker": "F:\\Unite_Testing\\EMR\\EMR.test\\BMICalculatorTest.cs",
+              "RelativeDocumentMoniker": "EMR.test\\BMICalculatorTest.cs",
+              "ToolTip": "F:\\Unite_Testing\\EMR\\EMR.test\\BMICalculatorTest.cs",
+              "RelativeToolTip": "EMR.test\\BMICalculatorTest.cs",
+              "ViewState": "AQIAABMAAABAMzMzMzMywCAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T21:13:23.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BMICalculator.cs",
+              "DocumentMoniker": "F:\\Unite_Testing\\EMR\\EMR\\BMICalculator.cs",
+              "RelativeDocumentMoniker": "EMR\\BMICalculator.cs",
+              "ToolTip": "F:\\Unite_Testing\\EMR\\EMR\\BMICalculator.cs",
+              "RelativeToolTip": "EMR\\BMICalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:47:44.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
