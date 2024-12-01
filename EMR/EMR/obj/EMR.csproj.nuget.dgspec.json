@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Unite_Testing\\EMR\\EMR\\EMR.csproj": {}
+    "F:\\Unite_Testing\\Unit-Testing\\EMR\\EMR\\EMR.csproj": {}
   },
   "projects": {
-    "F:\\Unite_Testing\\EMR\\EMR\\EMR.csproj": {
+    "F:\\Unite_Testing\\Unit-Testing\\EMR\\EMR\\EMR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Unite_Testing\\EMR\\EMR\\EMR.csproj",
+        "projectUniqueName": "F:\\Unite_Testing\\Unit-Testing\\EMR\\EMR\\EMR.csproj",
         "projectName": "EMR",
-        "projectPath": "F:\\Unite_Testing\\EMR\\EMR\\EMR.csproj",
+        "projectPath": "F:\\Unite_Testing\\Unit-Testing\\EMR\\EMR\\EMR.csproj",
         "packagesPath": "C:\\Users\\CS\\.nuget\\packages\\",
-        "outputPath": "F:\\Unite_Testing\\EMR\\EMR\\obj\\",
+        "outputPath": "F:\\Unite_Testing\\Unit-Testing\\EMR\\EMR\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

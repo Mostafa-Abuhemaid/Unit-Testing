@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EMR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac76661ac947d51b6dabc5de00e6db7b914d82b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("EMR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EMR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

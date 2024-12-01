@@ -9,3 +9,11 @@ F:\Unite_Testing\EMR\EMR\obj\Debug\net8.0\EMR.dll
 F:\Unite_Testing\EMR\EMR\obj\Debug\net8.0\refint\EMR.dll
 F:\Unite_Testing\EMR\EMR\obj\Debug\net8.0\EMR.pdb
 F:\Unite_Testing\EMR\EMR\obj\Debug\net8.0\ref\EMR.dll
+F:\Unite_Testing\Unit-Testing\EMR\EMR\obj\Debug\net8.0\EMR.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unite_Testing\Unit-Testing\EMR\EMR\obj\Debug\net8.0\EMR.AssemblyInfoInputs.cache
+F:\Unite_Testing\Unit-Testing\EMR\EMR\obj\Debug\net8.0\EMR.AssemblyInfo.cs
+F:\Unite_Testing\Unit-Testing\EMR\EMR\obj\Debug\net8.0\EMR.csproj.CoreCompileInputs.cache
+F:\Unite_Testing\Unit-Testing\EMR\EMR\obj\Debug\net8.0\EMR.sourcelink.json
+F:\Unite_Testing\Unit-Testing\EMR\EMR\obj\Debug\net8.0\EMR.dll
+F:\Unite_Testing\Unit-Testing\EMR\EMR\obj\Debug\net8.0\refint\EMR.dll
+F:\Unite_Testing\Unit-Testing\EMR\EMR\obj\Debug\net8.0\EMR.pdb

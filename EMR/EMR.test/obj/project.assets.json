@@ -5530,11 +5530,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Unite_Testing\\EMR\\EMR.test\\EMR.test.csproj",
+      "projectUniqueName": "F:\\Unite_Testing\\Unit-Testing\\EMR\\EMR.test\\EMR.test.csproj",
       "projectName": "EMR.test",
-      "projectPath": "F:\\Unite_Testing\\EMR\\EMR.test\\EMR.test.csproj",
+      "projectPath": "F:\\Unite_Testing\\Unit-Testing\\EMR\\EMR.test\\EMR.test.csproj",
       "packagesPath": "C:\\Users\\CS\\.nuget\\packages\\",
-      "outputPath": "F:\\Unite_Testing\\EMR\\EMR.test\\obj\\",
+      "outputPath": "F:\\Unite_Testing\\Unit-Testing\\EMR\\EMR.test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5555,8 +5555,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\Unite_Testing\\EMR\\EMR\\EMR.csproj": {
-              "projectPath": "F:\\Unite_Testing\\EMR\\EMR\\EMR.csproj"
+            "F:\\Unite_Testing\\Unit-Testing\\EMR\\EMR\\EMR.csproj": {
+              "projectPath": "F:\\Unite_Testing\\Unit-Testing\\EMR\\EMR\\EMR.csproj"
             }
           }
         }
